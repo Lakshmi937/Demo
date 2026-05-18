@@ -4,8 +4,8 @@ A simple static web page showcasing a Bootstrap carousel that displays images of
 
 ## Files
 
-- `one.html` - Main HTML page.
-- `one.css` - Custom styles for page layout and typography.
+- `index.html` - Main HTML page.
+- `style.css` - Custom styles for page layout and typography.
 
 ## Features
 
@@ -15,7 +15,7 @@ A simple static web page showcasing a Bootstrap carousel that displays images of
 
 ## Usage
 
-1. Open `one.html` in a web browser.
+1. Open `index.html` in a web browser.
 2. The carousel will autoplay and can also be navigated using the prev/next controls.
 
 ## Dependencies
